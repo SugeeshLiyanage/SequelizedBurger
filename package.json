@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/SugeeshLiyanage/SequelizedBurger/issues"
   },
-  "homepage": "https://github.com/SugeeshLiyanage/SequelizedBurger#readme"
+  "homepage": "https://github.com/SugeeshLiyanage/SequelizedBurger#readme",
+  "dependencies": {
+    "mysql2": "^1.5.3",
+    "sequelize": "^4.37.6"
+  }
 }
