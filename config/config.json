@@ -8,9 +8,8 @@
     },
     "test": {
         "username": "root",
-        "password": "root",
-        "password": "",
-        "database": "database_test",
+        "password": "Dulinika2014",      
+        "database": "burgers_db",
         "host": "127.0.0.1",
         "dialect": "mysql"
     },
