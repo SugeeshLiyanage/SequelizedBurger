@@ -4,8 +4,7 @@
   "description": "A node, Express, MySQL Sequelized Burger app that lets users input the names of burgers they'd like to eat and then devour them!",
   "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "node server.js"
+    "test": "echo \"Error: no test specified\" && exit 1"  
   },
   "repository": {
     "type": "git",
@@ -18,9 +17,9 @@
   },
   "homepage": "https://github.com/SugeeshLiyanage/SequelizedBurger#readme",
   "dependencies": {
-    "body-parser": "^1.18.2",    
+    "body-parser": "^1.18.2",
     "express": "^4.16.3",
-    "mysql2": "^1.5.3",
-    "sequelize": "^4.37.6"
+    "mysql": "^2.15.0",   
+    "sequelize": "^4.37.7"
   }
 }
